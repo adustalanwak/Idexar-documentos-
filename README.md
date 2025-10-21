@@ -16,9 +16,6 @@ Una aplicación de escritorio inteligente que indexa y consulta documentos PDF u
 - **🖥️ Interfaz Gráfica**: Aplicación de escritorio con PyQt5
 - **🌐 Soporte Español**: OCR y procesamiento optimizado para español
 
-## 📸 Capturas de Pantalla
-
-*(Aquí puedes agregar imágenes de tu aplicación funcionando)*
 
 ## 🛠️ Tecnologías Utilizadas
 
